@@ -1,5 +1,5 @@
 <template>
-  <ta-button>基础测试</ta-button>
+  <ta-border-layout></ta-border-layout>
 </template>
 
 <script>
